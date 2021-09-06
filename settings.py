@@ -1,5 +1,5 @@
 WIDTH, HEIGHT = 680, 500
-NAME = "Alien Apocalypse"
+NAME = "Alien Hideout"
 
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
